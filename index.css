@@ -6,7 +6,7 @@
   bottom: 0px;
   background-color: rgba(168, 148, 168, 0.78);
 }
-.paddingnoticias{
-  padding-left: 100px;
-  padding-right: 100px;
+.negrita{
+  font-weight: bold;
+  color: black;
 }
